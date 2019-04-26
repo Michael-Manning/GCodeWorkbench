@@ -1,0 +1,21 @@
+proper control button layout with home button
+
+TCP log output to the large textbox
+
+finish text tools window
+
+add custom single line font
+
+reorganize tracing window
+
+fix tracing infill
+
+test loading different images without crashing on line art windows
+
+dithering??
+
+fix edge artifacts in 3D model view
+
+create preferences file
+
+create namespace for curve tools

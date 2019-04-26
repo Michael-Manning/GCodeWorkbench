@@ -1,0 +1,565 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<colums>10</colums>
+<rows>14</rows>
+<stitchImg0>
+  <path>pano0.jpg</path>
+  <x>0</x>
+  <y>0</y></stitchImg0>
+<stitchImg1>
+  <path>pano1.jpg</path>
+  <x>20</x>
+  <y>0</y></stitchImg1>
+<stitchImg2>
+  <path>pano2.jpg</path>
+  <x>40</x>
+  <y>0</y></stitchImg2>
+<stitchImg3>
+  <path>pano3.jpg</path>
+  <x>60</x>
+  <y>0</y></stitchImg3>
+<stitchImg4>
+  <path>pano4.jpg</path>
+  <x>80</x>
+  <y>0</y></stitchImg4>
+<stitchImg5>
+  <path>pano5.jpg</path>
+  <x>100</x>
+  <y>0</y></stitchImg5>
+<stitchImg6>
+  <path>pano6.jpg</path>
+  <x>120</x>
+  <y>0</y></stitchImg6>
+<stitchImg7>
+  <path>pano7.jpg</path>
+  <x>140</x>
+  <y>0</y></stitchImg7>
+<stitchImg8>
+  <path>pano8.jpg</path>
+  <x>160</x>
+  <y>0</y></stitchImg8>
+<stitchImg9>
+  <path>pano9.jpg</path>
+  <x>180</x>
+  <y>0</y></stitchImg9>
+<stitchImg10>
+  <path>pano10.jpg</path>
+  <x>200</x>
+  <y>0</y></stitchImg10>
+<stitchImg11>
+  <path>pano11.jpg</path>
+  <x>220</x>
+  <y>0</y></stitchImg11>
+<stitchImg12>
+  <path>pano12.jpg</path>
+  <x>240</x>
+  <y>0</y></stitchImg12>
+<stitchImg13>
+  <path>pano13.jpg</path>
+  <x>260</x>
+  <y>0</y></stitchImg13>
+<stitchImg14>
+  <path>pano27.jpg</path>
+  <x>0</x>
+  <y>20</y></stitchImg14>
+<stitchImg15>
+  <path>pano26.jpg</path>
+  <x>20</x>
+  <y>20</y></stitchImg15>
+<stitchImg16>
+  <path>pano25.jpg</path>
+  <x>40</x>
+  <y>20</y></stitchImg16>
+<stitchImg17>
+  <path>pano24.jpg</path>
+  <x>60</x>
+  <y>20</y></stitchImg17>
+<stitchImg18>
+  <path>pano23.jpg</path>
+  <x>80</x>
+  <y>20</y></stitchImg18>
+<stitchImg19>
+  <path>pano22.jpg</path>
+  <x>100</x>
+  <y>20</y></stitchImg19>
+<stitchImg20>
+  <path>pano21.jpg</path>
+  <x>120</x>
+  <y>20</y></stitchImg20>
+<stitchImg21>
+  <path>pano20.jpg</path>
+  <x>140</x>
+  <y>20</y></stitchImg21>
+<stitchImg22>
+  <path>pano19.jpg</path>
+  <x>160</x>
+  <y>20</y></stitchImg22>
+<stitchImg23>
+  <path>pano18.jpg</path>
+  <x>180</x>
+  <y>20</y></stitchImg23>
+<stitchImg24>
+  <path>pano17.jpg</path>
+  <x>200</x>
+  <y>20</y></stitchImg24>
+<stitchImg25>
+  <path>pano16.jpg</path>
+  <x>220</x>
+  <y>20</y></stitchImg25>
+<stitchImg26>
+  <path>pano15.jpg</path>
+  <x>240</x>
+  <y>20</y></stitchImg26>
+<stitchImg27>
+  <path>pano14.jpg</path>
+  <x>260</x>
+  <y>20</y></stitchImg27>
+<stitchImg28>
+  <path>pano28.jpg</path>
+  <x>0</x>
+  <y>40</y></stitchImg28>
+<stitchImg29>
+  <path>pano29.jpg</path>
+  <x>20</x>
+  <y>40</y></stitchImg29>
+<stitchImg30>
+  <path>pano30.jpg</path>
+  <x>40</x>
+  <y>40</y></stitchImg30>
+<stitchImg31>
+  <path>pano31.jpg</path>
+  <x>60</x>
+  <y>40</y></stitchImg31>
+<stitchImg32>
+  <path>pano32.jpg</path>
+  <x>80</x>
+  <y>40</y></stitchImg32>
+<stitchImg33>
+  <path>pano33.jpg</path>
+  <x>100</x>
+  <y>40</y></stitchImg33>
+<stitchImg34>
+  <path>pano34.jpg</path>
+  <x>120</x>
+  <y>40</y></stitchImg34>
+<stitchImg35>
+  <path>pano35.jpg</path>
+  <x>140</x>
+  <y>40</y></stitchImg35>
+<stitchImg36>
+  <path>pano36.jpg</path>
+  <x>160</x>
+  <y>40</y></stitchImg36>
+<stitchImg37>
+  <path>pano37.jpg</path>
+  <x>180</x>
+  <y>40</y></stitchImg37>
+<stitchImg38>
+  <path>pano38.jpg</path>
+  <x>200</x>
+  <y>40</y></stitchImg38>
+<stitchImg39>
+  <path>pano39.jpg</path>
+  <x>220</x>
+  <y>40</y></stitchImg39>
+<stitchImg40>
+  <path>pano40.jpg</path>
+  <x>240</x>
+  <y>40</y></stitchImg40>
+<stitchImg41>
+  <path>pano41.jpg</path>
+  <x>260</x>
+  <y>40</y></stitchImg41>
+<stitchImg42>
+  <path>pano55.jpg</path>
+  <x>0</x>
+  <y>60</y></stitchImg42>
+<stitchImg43>
+  <path>pano54.jpg</path>
+  <x>20</x>
+  <y>60</y></stitchImg43>
+<stitchImg44>
+  <path>pano53.jpg</path>
+  <x>40</x>
+  <y>60</y></stitchImg44>
+<stitchImg45>
+  <path>pano52.jpg</path>
+  <x>60</x>
+  <y>60</y></stitchImg45>
+<stitchImg46>
+  <path>pano51.jpg</path>
+  <x>80</x>
+  <y>60</y></stitchImg46>
+<stitchImg47>
+  <path>pano50.jpg</path>
+  <x>100</x>
+  <y>60</y></stitchImg47>
+<stitchImg48>
+  <path>pano49.jpg</path>
+  <x>120</x>
+  <y>60</y></stitchImg48>
+<stitchImg49>
+  <path>pano48.jpg</path>
+  <x>140</x>
+  <y>60</y></stitchImg49>
+<stitchImg50>
+  <path>pano47.jpg</path>
+  <x>160</x>
+  <y>60</y></stitchImg50>
+<stitchImg51>
+  <path>pano46.jpg</path>
+  <x>180</x>
+  <y>60</y></stitchImg51>
+<stitchImg52>
+  <path>pano45.jpg</path>
+  <x>200</x>
+  <y>60</y></stitchImg52>
+<stitchImg53>
+  <path>pano44.jpg</path>
+  <x>220</x>
+  <y>60</y></stitchImg53>
+<stitchImg54>
+  <path>pano43.jpg</path>
+  <x>240</x>
+  <y>60</y></stitchImg54>
+<stitchImg55>
+  <path>pano42.jpg</path>
+  <x>260</x>
+  <y>60</y></stitchImg55>
+<stitchImg56>
+  <path>pano56.jpg</path>
+  <x>0</x>
+  <y>80</y></stitchImg56>
+<stitchImg57>
+  <path>pano57.jpg</path>
+  <x>20</x>
+  <y>80</y></stitchImg57>
+<stitchImg58>
+  <path>pano58.jpg</path>
+  <x>40</x>
+  <y>80</y></stitchImg58>
+<stitchImg59>
+  <path>pano59.jpg</path>
+  <x>60</x>
+  <y>80</y></stitchImg59>
+<stitchImg60>
+  <path>pano60.jpg</path>
+  <x>80</x>
+  <y>80</y></stitchImg60>
+<stitchImg61>
+  <path>pano61.jpg</path>
+  <x>100</x>
+  <y>80</y></stitchImg61>
+<stitchImg62>
+  <path>pano62.jpg</path>
+  <x>120</x>
+  <y>80</y></stitchImg62>
+<stitchImg63>
+  <path>pano63.jpg</path>
+  <x>140</x>
+  <y>80</y></stitchImg63>
+<stitchImg64>
+  <path>pano64.jpg</path>
+  <x>160</x>
+  <y>80</y></stitchImg64>
+<stitchImg65>
+  <path>pano65.jpg</path>
+  <x>180</x>
+  <y>80</y></stitchImg65>
+<stitchImg66>
+  <path>pano66.jpg</path>
+  <x>200</x>
+  <y>80</y></stitchImg66>
+<stitchImg67>
+  <path>pano67.jpg</path>
+  <x>220</x>
+  <y>80</y></stitchImg67>
+<stitchImg68>
+  <path>pano68.jpg</path>
+  <x>240</x>
+  <y>80</y></stitchImg68>
+<stitchImg69>
+  <path>pano69.jpg</path>
+  <x>260</x>
+  <y>80</y></stitchImg69>
+<stitchImg70>
+  <path>pano83.jpg</path>
+  <x>0</x>
+  <y>100</y></stitchImg70>
+<stitchImg71>
+  <path>pano82.jpg</path>
+  <x>20</x>
+  <y>100</y></stitchImg71>
+<stitchImg72>
+  <path>pano81.jpg</path>
+  <x>40</x>
+  <y>100</y></stitchImg72>
+<stitchImg73>
+  <path>pano80.jpg</path>
+  <x>60</x>
+  <y>100</y></stitchImg73>
+<stitchImg74>
+  <path>pano79.jpg</path>
+  <x>80</x>
+  <y>100</y></stitchImg74>
+<stitchImg75>
+  <path>pano78.jpg</path>
+  <x>100</x>
+  <y>100</y></stitchImg75>
+<stitchImg76>
+  <path>pano77.jpg</path>
+  <x>120</x>
+  <y>100</y></stitchImg76>
+<stitchImg77>
+  <path>pano76.jpg</path>
+  <x>140</x>
+  <y>100</y></stitchImg77>
+<stitchImg78>
+  <path>pano75.jpg</path>
+  <x>160</x>
+  <y>100</y></stitchImg78>
+<stitchImg79>
+  <path>pano74.jpg</path>
+  <x>180</x>
+  <y>100</y></stitchImg79>
+<stitchImg80>
+  <path>pano73.jpg</path>
+  <x>200</x>
+  <y>100</y></stitchImg80>
+<stitchImg81>
+  <path>pano72.jpg</path>
+  <x>220</x>
+  <y>100</y></stitchImg81>
+<stitchImg82>
+  <path>pano71.jpg</path>
+  <x>240</x>
+  <y>100</y></stitchImg82>
+<stitchImg83>
+  <path>pano70.jpg</path>
+  <x>260</x>
+  <y>100</y></stitchImg83>
+<stitchImg84>
+  <path>pano84.jpg</path>
+  <x>0</x>
+  <y>120</y></stitchImg84>
+<stitchImg85>
+  <path>pano85.jpg</path>
+  <x>20</x>
+  <y>120</y></stitchImg85>
+<stitchImg86>
+  <path>pano86.jpg</path>
+  <x>40</x>
+  <y>120</y></stitchImg86>
+<stitchImg87>
+  <path>pano87.jpg</path>
+  <x>60</x>
+  <y>120</y></stitchImg87>
+<stitchImg88>
+  <path>pano88.jpg</path>
+  <x>80</x>
+  <y>120</y></stitchImg88>
+<stitchImg89>
+  <path>pano89.jpg</path>
+  <x>100</x>
+  <y>120</y></stitchImg89>
+<stitchImg90>
+  <path>pano90.jpg</path>
+  <x>120</x>
+  <y>120</y></stitchImg90>
+<stitchImg91>
+  <path>pano91.jpg</path>
+  <x>140</x>
+  <y>120</y></stitchImg91>
+<stitchImg92>
+  <path>pano92.jpg</path>
+  <x>160</x>
+  <y>120</y></stitchImg92>
+<stitchImg93>
+  <path>pano93.jpg</path>
+  <x>180</x>
+  <y>120</y></stitchImg93>
+<stitchImg94>
+  <path>pano94.jpg</path>
+  <x>200</x>
+  <y>120</y></stitchImg94>
+<stitchImg95>
+  <path>pano95.jpg</path>
+  <x>220</x>
+  <y>120</y></stitchImg95>
+<stitchImg96>
+  <path>pano96.jpg</path>
+  <x>240</x>
+  <y>120</y></stitchImg96>
+<stitchImg97>
+  <path>pano97.jpg</path>
+  <x>260</x>
+  <y>120</y></stitchImg97>
+<stitchImg98>
+  <path>pano111.jpg</path>
+  <x>0</x>
+  <y>140</y></stitchImg98>
+<stitchImg99>
+  <path>pano110.jpg</path>
+  <x>20</x>
+  <y>140</y></stitchImg99>
+<stitchImg100>
+  <path>pano109.jpg</path>
+  <x>40</x>
+  <y>140</y></stitchImg100>
+<stitchImg101>
+  <path>pano108.jpg</path>
+  <x>60</x>
+  <y>140</y></stitchImg101>
+<stitchImg102>
+  <path>pano107.jpg</path>
+  <x>80</x>
+  <y>140</y></stitchImg102>
+<stitchImg103>
+  <path>pano106.jpg</path>
+  <x>100</x>
+  <y>140</y></stitchImg103>
+<stitchImg104>
+  <path>pano105.jpg</path>
+  <x>120</x>
+  <y>140</y></stitchImg104>
+<stitchImg105>
+  <path>pano104.jpg</path>
+  <x>140</x>
+  <y>140</y></stitchImg105>
+<stitchImg106>
+  <path>pano103.jpg</path>
+  <x>160</x>
+  <y>140</y></stitchImg106>
+<stitchImg107>
+  <path>pano102.jpg</path>
+  <x>180</x>
+  <y>140</y></stitchImg107>
+<stitchImg108>
+  <path>pano101.jpg</path>
+  <x>200</x>
+  <y>140</y></stitchImg108>
+<stitchImg109>
+  <path>pano100.jpg</path>
+  <x>220</x>
+  <y>140</y></stitchImg109>
+<stitchImg110>
+  <path>pano99.jpg</path>
+  <x>240</x>
+  <y>140</y></stitchImg110>
+<stitchImg111>
+  <path>pano98.jpg</path>
+  <x>260</x>
+  <y>140</y></stitchImg111>
+<stitchImg112>
+  <path>pano112.jpg</path>
+  <x>0</x>
+  <y>160</y></stitchImg112>
+<stitchImg113>
+  <path>pano113.jpg</path>
+  <x>20</x>
+  <y>160</y></stitchImg113>
+<stitchImg114>
+  <path>pano114.jpg</path>
+  <x>40</x>
+  <y>160</y></stitchImg114>
+<stitchImg115>
+  <path>pano115.jpg</path>
+  <x>60</x>
+  <y>160</y></stitchImg115>
+<stitchImg116>
+  <path>pano116.jpg</path>
+  <x>80</x>
+  <y>160</y></stitchImg116>
+<stitchImg117>
+  <path>pano117.jpg</path>
+  <x>100</x>
+  <y>160</y></stitchImg117>
+<stitchImg118>
+  <path>pano118.jpg</path>
+  <x>120</x>
+  <y>160</y></stitchImg118>
+<stitchImg119>
+  <path>pano119.jpg</path>
+  <x>140</x>
+  <y>160</y></stitchImg119>
+<stitchImg120>
+  <path>pano120.jpg</path>
+  <x>160</x>
+  <y>160</y></stitchImg120>
+<stitchImg121>
+  <path>pano121.jpg</path>
+  <x>180</x>
+  <y>160</y></stitchImg121>
+<stitchImg122>
+  <path>pano122.jpg</path>
+  <x>200</x>
+  <y>160</y></stitchImg122>
+<stitchImg123>
+  <path>pano123.jpg</path>
+  <x>220</x>
+  <y>160</y></stitchImg123>
+<stitchImg124>
+  <path>pano124.jpg</path>
+  <x>240</x>
+  <y>160</y></stitchImg124>
+<stitchImg125>
+  <path>pano125.jpg</path>
+  <x>260</x>
+  <y>160</y></stitchImg125>
+<stitchImg126>
+  <path>pano139.jpg</path>
+  <x>0</x>
+  <y>180</y></stitchImg126>
+<stitchImg127>
+  <path>pano138.jpg</path>
+  <x>20</x>
+  <y>180</y></stitchImg127>
+<stitchImg128>
+  <path>pano137.jpg</path>
+  <x>40</x>
+  <y>180</y></stitchImg128>
+<stitchImg129>
+  <path>pano136.jpg</path>
+  <x>60</x>
+  <y>180</y></stitchImg129>
+<stitchImg130>
+  <path>pano135.jpg</path>
+  <x>80</x>
+  <y>180</y></stitchImg130>
+<stitchImg131>
+  <path>pano134.jpg</path>
+  <x>100</x>
+  <y>180</y></stitchImg131>
+<stitchImg132>
+  <path>pano133.jpg</path>
+  <x>120</x>
+  <y>180</y></stitchImg132>
+<stitchImg133>
+  <path>pano132.jpg</path>
+  <x>140</x>
+  <y>180</y></stitchImg133>
+<stitchImg134>
+  <path>pano131.jpg</path>
+  <x>160</x>
+  <y>180</y></stitchImg134>
+<stitchImg135>
+  <path>pano130.jpg</path>
+  <x>180</x>
+  <y>180</y></stitchImg135>
+<stitchImg136>
+  <path>pano129.jpg</path>
+  <x>200</x>
+  <y>180</y></stitchImg136>
+<stitchImg137>
+  <path>pano128.jpg</path>
+  <x>220</x>
+  <y>180</y></stitchImg137>
+<stitchImg138>
+  <path>pano127.jpg</path>
+  <x>240</x>
+  <y>180</y></stitchImg138>
+<stitchImg139>
+  <path>pano126.jpg</path>
+  <x>260</x>
+  <y>180</y></stitchImg139>
+</opencv_storage>

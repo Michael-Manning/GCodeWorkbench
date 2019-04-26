@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<settings>
+  <spreadX>6.5999999046325684e+00</spreadX>
+  <spreadY>7.5000000000000000e+00</spreadY>
+  <ladderX>0.</ladderX>
+  <ladderY>6.8000001907348633e+00</ladderY>
+  <imAngle>-3.7999998778104782e-02</imAngle>
+  <offsetX>-450.</offsetX>
+  <offsetY>600.</offsetY>
+  <featherX>3.8999998569488525e-01</featherX>
+  <featherY>3.4000000357627869e-01</featherY>
+  <cropX>3.4999999403953552e-01</cropX>
+  <cropY>3.0000001192092896e-01</cropY>
+  <binaryThresh>0.</binaryThresh></settings>
+</opencv_storage>
